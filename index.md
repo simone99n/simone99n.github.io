@@ -9,7 +9,7 @@ Math | Computer Science | AI developer
 
 ---
 
-# ⚠️ The following is a template
+## ⚠️ The following is a template
 
 ---
 
