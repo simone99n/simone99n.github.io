@@ -3,14 +3,13 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm Simone Norberti
-
-Math | Computer Science | AI developer  
+# ⚠️ The following is a template
 
 ---
 
-# ⚠️ The following is a template
-Template
+# 👋 Hi, I'm Simone Norberti
+
+Math | Computer Science | AI developer  
 
 ---
 
